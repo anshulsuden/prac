@@ -3,4 +3,4 @@ def func(a):
     print(a)
     a-=1
   print('blastoff')
-func(4)
+func(7)
